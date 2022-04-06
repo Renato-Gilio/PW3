@@ -1,0 +1,26 @@
+{
+  "name": "pw3",
+  "version": "1.0.0",
+  "description": "Atividade PW3",
+  "main": "index.js",
+  "scripts": {
+    "test": "expo start",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/Renato-Gilio.git"
+  },
+  "author": "Renato Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/Renato-Gilio/issues"
+  },
+  "homepage": "https://github.com/github.com/Renato-Gilio#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.18.0"
+  }
+}
